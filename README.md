@@ -1,1 +1,2 @@
 # MasterThesis
+This research is devoted to the study of data from groups of GSOM applicants in the social media Vkontakte with the help of Machine Learning algorithms. The information posted in three groups (undergraduate applicants, graduate applicants and the official GSOM group) and on subscribers' pages was analysed. The data used in the study was obtained from VK API. The following data analysis methods were used: natural language processing, sentiment analysis, regression and binary classification models, and cluster analysis. 
